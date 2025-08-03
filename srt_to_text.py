@@ -1,0 +1,1 @@
+<full code from earlier for srt_to_text.py>
